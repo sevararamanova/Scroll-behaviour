@@ -1,0 +1,67 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.container {
+  background-color: rgb(223, 78, 255);
+  padding: 30px 0px;
+  height: 80px;
+  position: sticky;
+  top: 0px;
+}
+.container nav {
+  text-align: center;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+.container a {
+  text-decoration: none;
+  margin: 0px 20px;
+  color: azure;
+}
+a:hover {
+  color:rgb(90, 5, 90);
+}
+
+#home {
+  height: 100vh;
+  font-family: cursive;
+  padding: 90px;
+  background-color: rgb(177, 243, 243);
+}
+
+#about {
+  height: 100vh;
+  font-family: cursive;
+  padding: 90px;
+  background-color: rgb(233, 177, 201);
+}
+
+#contact {
+  height: 100vh;
+  font-family: cursive;
+  padding: 90px;
+  background-color: rgb(168, 254, 184);
+}
+
+#profile {
+  height: 100vh;
+  font-family: cursive;
+  padding: 90px;
+  background-color: rgb(153, 216, 246);
+}
+
+footer {
+  background-color: rgb(36, 36, 242);
+  color: azure;
+  height: 80px;
+  padding: 30px;
+  text-align: center;
+  font-family: sans-serif;
+}/*# sourceMappingURL=index.css.map */
